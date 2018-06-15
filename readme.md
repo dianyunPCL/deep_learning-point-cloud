@@ -6,11 +6,10 @@
 ---
 
 
-# Repositoris
+# 1. Repositoris
 - There are some avalible repositories.
----
 
-## [3D Machine Learning](https://github.com/jingxa/3D-Machine-Learning)
+## 1.1 [3D Machine Learning](https://github.com/jingxa/3D-Machine-Learning)
 - This repo includes:
 	- course
 	- datasets
@@ -31,13 +30,13 @@
 
 ---	
 
-# Course
----
+# 2. Course
+
 
 - There will provide some courses about Machine-Learning and Deep-Learning;
 
-## Machine-Learning
-### 1.[Stanford CS229 (Autumn 2017)](http://cs229.stanford.edu/)
+## 2.1 Machine-Learning
+### 2.1.1 [Stanford CS229 (Autumn 2017)](http://cs229.stanford.edu/)
 
 - repo:
 	- [Stanford CS229 notes(Autumn 2017)](https://github.com/econti/cs229)
@@ -45,16 +44,15 @@
 	
 	
 	
-## Deep-Learning
+## 2.2 Deep-Learning
 
-### 1.[CS231n: Convolutional Neural Networks for Visual Recognition](http://cs231n.stanford.edu/)
+### 2.2.1 [CS231n: Convolutional Neural Networks for Visual Recognition](http://cs231n.stanford.edu/)
 
-### 2. [CVPR2017 Tutorial: An Introduction to 3D Deep Learning](http://3ddl.stanford.edu/)
+### 2.2.2 [CVPR2017 Tutorial: An Introduction to 3D Deep Learning](http://3ddl.stanford.edu/)
 
 
 
-# Experts
----
+# 3. Experts
 
 - There are some professional researchers about 3D;
 
